@@ -1,0 +1,11 @@
+{
+  "name": "HijiriIshi.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/HijiriIshi/HijiriIshi.github.io.git",
+  "author": "Hijiri Ishi <hizikicom@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "milligram": "^1.4.1"
+  }
+}
